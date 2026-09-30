@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Sample/generated project data
+*.osp
+*_assets/
+564 gen+user_assets/
